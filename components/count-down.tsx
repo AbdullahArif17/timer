@@ -82,7 +82,7 @@ export default function Countdown() {
 
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-gray-100 dark:bg-gray-900">
-      <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-8 w-full w-[600px]">
+      <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-8 w-[800px]">
         <h1 className="text-2xl font-bold mb-4 text-gray-800 dark:text-gray-200 text-center bg-gray-200">
           Countdown Timer
         </h1>
